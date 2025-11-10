@@ -158,6 +158,10 @@ Una lista completa de aplicaciones web gratuitas en español que no requieren re
 
 * [NutriSalud](https://meskeia.com/nutrisalud) - Información nutricional y planificación de comidas
 
+### Hábitos y Rutinas
+
+* [Seguimiento de Hábitos](https://meskeia.com/seguimiento-habitos) - Rastrea hasta 5 hábitos con visualización de rachas, calendario y estadísticas
+
 ## Idiomas y Educación
 
 ### Herramientas de Aprendizaje
