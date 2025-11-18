@@ -84,6 +84,7 @@ Una lista completa de aplicaciones web gratuitas en español que no requieren re
 
 * [Generador de Contraseñas](https://meskeia.com/generador-contrasenas) - Contraseñas seguras personalizables
 * [Generador de Códigos QR](https://meskeia.com/generador-codigos-qr) - Crea códigos QR para URLs, texto y más
+* [Generador de Códigos de Barras](https://meskeia.com/generador-codigos-barras) - Genera códigos de barras profesionales en formatos EAN-13, EAN-8, Code 128 y UPC para productos e inventarios
 * [Generador de Hash](https://meskeia.com/generador-hash) - MD5, SHA-1, SHA-256
 * [Generador de Texto Lorem Ipsum](https://meskeia.com/generador-texto) - Texto de relleno personalizable
 * [Generador de Nombres de Empresa](https://meskeia.com/generador-nombres-empresa) - Ideas creativas con análisis de marca (memorabilidad, SEO, brandability) y comparador
