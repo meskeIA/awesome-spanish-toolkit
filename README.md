@@ -14,6 +14,7 @@ Una lista completa de aplicaciones web gratuitas en español que no requieren re
 - [Finanzas](#finanzas)
 - [Salud y Bienestar](#salud-y-bienestar)
 - [Idiomas y Educación](#idiomas-y-educación)
+- [Entretenimiento y Multimedia](#entretenimiento-y-multimedia)
 - [Juegos Educativos](#juegos-educativos)
 - [Herramientas para Desarrolladores](#herramientas-para-desarrolladores)
 
@@ -128,8 +129,16 @@ Una lista completa de aplicaciones web gratuitas en español que no requieren re
 
 * [Simulador de Hipoteca](https://meskeia.com/simulador-hipoteca) - Calcula cuotas hipotecarias
 * [Simulador de IRPF](https://meskeia.com/simulador-irpf) - Impuesto sobre la renta en España
-* [Impuesto de Sucesiones](https://meskeia.com/impuesto-sucesiones) - Calcula impuestos de herencias
-* [Impuesto de Donaciones](https://meskeia.com/impuesto-donaciones) - Calcula impuestos de donaciones
+
+#### Simuladores Fiscales - Ámbito Nacional (Régimen Común)
+
+* [Impuesto de Sucesiones - Nacional](https://meskeia.com/impuesto-sucesiones-nacional) - Calcula impuestos de herencias para régimen común de España (todas las CCAA excepto Cataluña, País Vasco y Navarra)
+* [Impuesto de Donaciones - Nacional](https://meskeia.com/impuesto-donaciones-nacional) - Calcula impuestos de donaciones para régimen común (14 comunidades autónomas)
+
+#### Simuladores Fiscales - Cataluña (Régimen Especial)
+
+* [Impuesto de Sucesiones - Cataluña](https://meskeia.com/impuesto-sucesiones) - Calculadora específica con normativa catalana
+* [Impuesto de Donaciones - Cataluña](https://meskeia.com/impuesto-donaciones) - Calculadora específica con normativa catalana
 
 ### Herramientas Empresariales
 
@@ -168,6 +177,12 @@ Una lista completa de aplicaciones web gratuitas en español que no requieren re
 
 * [Información del Tiempo](https://meskeia.com/informacion-tiempo) - Aprende sobre el clima
 
+## Entretenimiento y Multimedia
+
+### Radio y Audio
+
+* [Radio meskeIA](https://meskeia.com/radio-meskeia) - Emisoras de radio de todo el mundo en vivo. Miles de estaciones de música, noticias y podcasts disponibles gratis
+
 ## Juegos Educativos
 
 ### Juegos de Lógica
@@ -197,10 +212,6 @@ Una lista completa de aplicaciones web gratuitas en español que no requieren re
 
 * [Contraste de Colores](https://meskeia.com/contraste-colores) - Accesibilidad WCAG
 * [Acortador de URL](https://meskeia.com/acortador-url) - Acorta enlaces largos
-
-### Analytics
-
-* [Dashboard Analytics](https://meskeia.com/dashboard-analytics) - Visualiza datos de tu sitio web
 
 ## Guías y Recursos
 
