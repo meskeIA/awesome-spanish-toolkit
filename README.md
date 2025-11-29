@@ -1,249 +1,81 @@
 # Awesome Spanish Toolkit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🧰 Una colección curada de herramientas web, calculadoras, conversores y recursos educativos en español
+> Una colección curada de **+89 herramientas web gratuitas en español** para estudiantes, profesionales y cualquier persona que busque utilidades prácticas sin registro.
 
-Una lista completa de aplicaciones web gratuitas en español que no requieren registro. Perfecta para estudiantes, profesores, desarrolladores y cualquier persona que busque herramientas útiles en español.
+## Accede a todas las herramientas
 
-## Contents
+**[meskeia.com](https://meskeia.com)** - Plataforma con todas las aplicaciones organizadas por categorías, buscador inteligente y acceso instantáneo.
 
-- [Matemáticas](#matemáticas)
-- [Ciencias](#ciencias)
-- [Conversores y Calculadoras](#conversores-y-calculadoras)
-- [Generadores](#generadores)
-- [Productividad](#productividad)
-- [Finanzas](#finanzas)
-- [Salud y Bienestar](#salud-y-bienestar)
-- [Idiomas y Educación](#idiomas-y-educación)
-- [Entretenimiento y Multimedia](#entretenimiento-y-multimedia)
-- [Juegos Educativos](#juegos-educativos)
-- [Herramientas para Desarrolladores](#herramientas-para-desarrolladores)
+---
 
-## Matemáticas
+## Categorías Disponibles
 
-### Calculadoras
+| Categoría | Apps | Descripción |
+|-----------|------|-------------|
+| **Finanzas y Fiscalidad** | 13 | Simuladores de hipoteca, IRPF, sucesiones, donaciones (nacional y Cataluña), inversiones, jubilación |
+| **Matemáticas y Estadística** | 10 | Ecuaciones, geometría, trigonometría, probabilidad, estadística, teoría de números |
+| **Física y Química** | 5 | Tabla periódica interactiva, cinemática, electricidad, conversor de unidades científico |
+| **Salud y Bienestar** | 9 | IMC, calorías, hidratación, sueño, nutrición, hábitos saludables |
+| **Productividad** | 8 | Cronómetro, lista de tareas, notas, generador QR, contraseñas, códigos de barras |
+| **Emprendimiento y Negocios** | 6 | Tarifa freelance, break-even, cash flow, ROI marketing, gastos deducibles |
+| **Creatividad y Diseño** | 7 | Conversor de colores, gradientes CSS, sombras, tipografías, paletas, contraste WCAG |
+| **Herramientas Web** | 7 | Validador JSON, Base64, hash, RegEx, conversor de imágenes, iconos PWA |
+| **Texto y Documentos** | 5 | Contador de palabras, conversor de texto, limpiador, comparador, Markdown a HTML |
+| **Campus Digital** | 5 | Calculadora de notas, horarios de estudio, flashcards, cursos de inversión y emprendimiento |
+| **Juegos Educativos** | 8 | Wordle, Sudoku, 2048, tres en raya, memoria, puzzles matemáticos |
+| **Calculadoras y Utilidades** | 6 | Propinas, regla de tres, fechas, tallas, cocina, lista de compras |
 
-* [Calculadora Científica](https://meskeia.com/calculadora-matematica) - Calculadora completa con funciones científicas avanzadas
-* [Calculadora Simple](https://meskeia.com/calculadora-simple) - Calculadora básica para operaciones cotidianas
-* [Calculadora de Porcentajes](https://meskeia.com/calculadora-porcentajes) - Calcula porcentajes, aumentos y descuentos
-* [Calculadora de Propinas](https://meskeia.com/calculadora-propinas) - Calcula propinas y división de cuenta
+---
 
-### Álgebra y Cálculo
+## Características
 
-* [Álgebra](https://meskeia.com/algebra) - Resolución de ecuaciones algebraicas
-* [Álgebra Abstracta](https://meskeia.com/algebra-abstracta) - Herramientas para álgebra abstracta avanzada
-* [Cálculo](https://meskeia.com/calculo) - Derivadas, integrales y límites
-* [Teoría de Números](https://meskeia.com/teoria-numeros) - Números primos, MCM, MCD y más
+- **100% Gratuito** - Sin costes ocultos ni suscripciones
+- **Sin registro** - Acceso instantáneo a todas las herramientas
+- **En español** - Interfaz y contenido completamente en español
+- **Formato español** - Números (1.234,56), fechas (DD/MM/YYYY), moneda (€)
+- **Privacidad** - Los datos se procesan localmente en tu navegador
+- **Modo oscuro** - Todas las apps soportan tema claro y oscuro
+- **Responsive** - Funciona en móvil, tablet y escritorio
+- **Open Source** - Código disponible en GitHub
 
-### Geometría y Trigonometría
+---
 
-* [Geometría](https://meskeia.com/geometria) - Cálculo de áreas, perímetros y volúmenes
-* [Trigonometría](https://meskeia.com/trigonometria) - Funciones trigonométricas y conversiones
+## Stack Tecnológico
 
-### Estadística y Probabilidad
+Construido con tecnologías modernas:
 
-* [Calculadora Estadística](https://meskeia.com/calculadora-estadistica) - Media, mediana, desviación estándar
-* [Probabilidad](https://meskeia.com/probabilidad) - Cálculos de probabilidad y combinatoria
-* [Investigación Operativa](https://meskeia.com/investigacion-operativa) - Programación lineal y optimización
+- **Next.js 16** + React 19
+- **TypeScript** con tipos estrictos
+- **CSS Modules** con variables CSS
+- **PWA Ready** - Instalable como app
 
-### Herramientas Matemáticas
+---
 
-* [Regla de Tres](https://meskeia.com/regla-de-tres) - Cálculo de proporciones directas e inversas
-* [Calculadora de Notas](https://meskeia.com/calculadora-notas) - Calcula promedios y notas finales
+## Enlaces
 
-## Ciencias
+| Recurso | URL |
+|---------|-----|
+| **Web Principal** | [meskeia.com](https://meskeia.com) |
+| **Código Fuente** | [github.com/meskeIA/meskeia-web](https://github.com/meskeIA/meskeia-web) |
 
-### Física
-
-* [Calculadora de Movimiento](https://meskeia.com/calculadora-movimiento) - Cinemática y movimiento
-* [Calculadora de Electricidad](https://meskeia.com/calculadora-electricidad) - Ley de Ohm y circuitos eléctricos
-
-### Química
-
-* [Tabla Periódica Interactiva](https://meskeia.com/tabla-periodica) - Tabla periódica completa con información detallada
-* [Fórmulas Químicas](https://meskeia.com/formulas-quimicas) - Balanceo de ecuaciones y masa molar
-* [Glosario Física y Química](https://meskeia.com/glosario-fisica-quimica) - Términos y definiciones científicas
-
-## Conversores y Calculadoras
-
-### Conversores de Unidades
-
-* [Conversor Universal de Unidades](https://meskeia.com/conversor-unidades) - Longitud, masa, temperatura, volumen
-* [Conversor de Divisas](https://meskeia.com/conversor-divisas) - Tipos de cambio actualizados
-* [Conversor de Tallas](https://meskeia.com/conversor-tallas) - Tallas de ropa y calzado internacional
-* [Convertidor de Colores](https://meskeia.com/convertidor-colores) - HEX, RGB, HSL, CMYK
-
-### Calculadoras Especializadas
-
-* [Calculadora de Fechas](https://meskeia.com/calculadora-fechas) - Diferencias entre fechas y cálculos temporales
-* [Calculadora de Cocina](https://meskeia.com/calculadora-cocina) - Conversiones de medidas culinarias
-* [Calculadora de Aspectos](https://meskeia.com/calculadora-aspectos) - Relaciones de aspecto de pantalla
-
-## Generadores
-
-### Herramientas de Generación
-
-* [Generador de Contraseñas](https://meskeia.com/generador-contrasenas) - Contraseñas seguras personalizables
-* [Generador de Códigos QR](https://meskeia.com/generador-codigos-qr) - Crea códigos QR para URLs, texto y más
-* [Generador de Códigos de Barras](https://meskeia.com/generador-codigos-barras) - Genera códigos de barras profesionales en formatos EAN-13, EAN-8, Code 128 y UPC para productos e inventarios
-* [Generador de Hash](https://meskeia.com/generador-hash) - MD5, SHA-1, SHA-256
-* [Generador de Texto Lorem Ipsum](https://meskeia.com/generador-texto) - Texto de relleno personalizable
-* [Generador de Nombres de Empresa](https://meskeia.com/generador-nombres-empresa) - Ideas creativas con análisis de marca (memorabilidad, SEO, brandability) y comparador
-
-### Diseño y CSS
-
-* [Generador de Gradientes](https://meskeia.com/generador-gradientes) - Gradientes CSS personalizables
-* [Generador de Sombras CSS](https://meskeia.com/generador-sombras) - Box-shadow y text-shadow
-* [Generador de Tipografías](https://meskeia.com/generador-tipografias) - Pares de fuentes y preview
-* [Creador de Paletas de Colores](https://meskeia.com/creador-paletas) - Paletas de colores armónicas
-
-## Productividad
-
-### Gestión de Tiempo
-
-* [Cronómetro y Temporizador](https://meskeia.com/cronometro-temporizador) - Cronómetro preciso con alarmas
-* [Lista de Tareas](https://meskeia.com/lista-tareas) - Gestor de tareas simple y efectivo
-* [Generador de Horarios de Estudio](https://meskeia.com/generador-horarios-estudio) - Planifica tu tiempo de estudio
-* [Conversor de Horarios Mundial](https://meskeia.com/conversor-horarios) - Compara horarios de 31 ciudades con relojes analógicos en tiempo real, indicadores día/noche y conversor entre zonas horarias
-
-### Herramientas de Texto
-
-* [Contador de Palabras](https://meskeia.com/contador-palabras) - Cuenta palabras, caracteres y párrafos
-* [Comparador de Textos](https://meskeia.com/comparador-textos) - Compara dos textos línea por línea
-* [Limpiador de Texto](https://meskeia.com/limpiador-texto) - Limpia formato y espacios extra
-* [Conversor de Texto](https://meskeia.com/conversor-texto) - Mayúsculas, minúsculas, capitalizar
-
-### Herramientas Digitales
-
-* [Cuaderno Digital](https://meskeia.com/cuaderno-digital) - Toma notas con Markdown
-* [Lista de Compras](https://meskeia.com/lista-compras) - Organiza tus compras
-* [Creador de Flashcards](https://meskeia.com/creador-flashcards) - Tarjetas de estudio personalizadas
-
-## Finanzas
-
-### Calculadoras Financieras
-
-* [Calculadora de Inversiones](https://meskeia.com/calculadora-inversiones) - Rentabilidad y rendimiento de inversiones
-* [Calculadora de Jubilación](https://meskeia.com/calculadora-jubilacion) - Planifica tu jubilación
-* [Interés Compuesto](https://meskeia.com/interes-compuesto) - Cálculo de interés compuesto
-* [TIR y VAN](https://meskeia.com/tir-van) - Tasa Interna de Retorno y Valor Actual Neto
-
-### Simuladores
-
-* [Simulador de Hipoteca](https://meskeia.com/simulador-hipoteca) - Calcula cuotas hipotecarias
-* [Simulador de IRPF](https://meskeia.com/simulador-irpf) - Impuesto sobre la renta en España
-
-#### Simuladores Fiscales - Ámbito Nacional (Régimen Común)
-
-* [Impuesto de Sucesiones - Nacional](https://meskeia.com/impuesto-sucesiones-nacional) - Calcula impuestos de herencias para régimen común de España (todas las CCAA excepto Cataluña, País Vasco y Navarra)
-* [Impuesto de Donaciones - Nacional](https://meskeia.com/impuesto-donaciones-nacional) - Calcula impuestos de donaciones para régimen común (14 comunidades autónomas)
-
-#### Simuladores Fiscales - Cataluña (Régimen Especial)
-
-* [Impuesto de Sucesiones - Cataluña](https://meskeia.com/impuesto-sucesiones) - Calculadora específica con normativa catalana
-* [Impuesto de Donaciones - Cataluña](https://meskeia.com/impuesto-donaciones) - Calculadora específica con normativa catalana
-
-### Herramientas Empresariales
-
-* [Calculadora de ROI Marketing](https://meskeia.com/calculadora-roi-marketing) - Retorno de inversión en marketing
-* [Calculadora de Tarifa Freelance](https://meskeia.com/calculadora-tarifa-freelance) - Calcula tu tarifa por hora
-* [Margen y Punto de Equilibrio](https://meskeia.com/margen-equilibrio) - Análisis de costos y márgenes
-* [Planificador de Cashflow](https://meskeia.com/planificador-cashflow) - Flujo de caja empresarial
-* [Simulador de Gastos Deducibles](https://meskeia.com/simulador-gastos-deducibles) - Autónomos y PYMES
-* [Control de Gastos Mensual](https://meskeia.com/control-gastos-mensual) - Presupuesto personal
-
-### Cursos y Recursos
-
-* [Curso de Decisiones de Inversión](https://meskeia.com/curso-decisiones-inversion) - Aprende a invertir
-* [Curso de Emprendimiento](https://meskeia.com/curso-emprendimiento) - Inicia tu negocio
-
-## Salud y Bienestar
-
-### Calculadoras de Salud
-
-* [Calculadora de Calorías por Ejercicio](https://meskeia.com/calculadora-calorias-ejercicio) - Calorías quemadas por actividad
-* [Calculadora de Hidratación](https://meskeia.com/calculadora-hidratacion) - Agua diaria recomendada
-* [Calculadora de Sueño](https://meskeia.com/calculadora-sueno) - Ciclos de sueño óptimos
-* [Evaluador de Salud](https://meskeia.com/evaluador-salud) - IMC y estado de salud general
-
-### Nutrición
-
-* [NutriSalud](https://meskeia.com/nutrisalud) - Información nutricional y planificación de comidas
-
-### Hábitos y Rutinas
-
-* [Seguimiento de Hábitos](https://meskeia.com/seguimiento-habitos) - Rastrea hasta 5 hábitos con visualización de rachas, calendario y estadísticas
-
-## Idiomas y Educación
-
-### Herramientas de Aprendizaje
-
-* [Información del Tiempo](https://meskeia.com/informacion-tiempo) - Aprende sobre el clima
-
-## Entretenimiento y Multimedia
-
-### Radio y Audio
-
-* [Radio meskeIA](https://meskeia.com/radio-meskeia) - Emisoras de radio de todo el mundo en vivo. Miles de estaciones de música, noticias y podcasts disponibles gratis
-
-## Juegos Educativos
-
-### Juegos de Lógica
-
-* [Sudoku Clásico](https://meskeia.com/sudoku-clasico) - Sudoku con diferentes niveles
-* [Juego 2048](https://meskeia.com/juego-2048) - Puzzle matemático adictivo
-* [Tres en Raya](https://meskeia.com/tres-en-raya) - Clásico juego de estrategia
-* [Puzzle Matemático](https://meskeia.com/puzzle-matematico) - Resuelve operaciones matemáticas
-
-### Juegos de Memoria y Palabras
-
-* [Juego de Memoria](https://meskeia.com/juego-memoria) - Entrena tu memoria visual
-* [Wordle en Español](https://meskeia.com/wordle-espanol) - Adivina la palabra del día
-* [Piedra, Papel o Tijera](https://meskeia.com/piedra-papel-tijera) - Juego clásico
-
-## Herramientas para Desarrolladores
-
-### Conversores y Validadores
-
-* [Conversor Base64](https://meskeia.com/conversor-base64) - Codifica y decodifica Base64
-* [Conversor Markdown a HTML](https://meskeia.com/convertidor-markdown-html) - Convierte Markdown a HTML
-* [Conversor de Imágenes](https://meskeia.com/conversor-imagenes) - Convierte formatos de imagen
-* [Validador JSON](https://meskeia.com/validador-json) - Valida y formatea JSON
-* [Validador de Regex](https://meskeia.com/validador-regex) - Prueba expresiones regulares
-
-### Herramientas de Diseño
-
-* [Contraste de Colores](https://meskeia.com/contraste-colores) - Accesibilidad WCAG
-* [Acortador de URL](https://meskeia.com/acortador-url) - Acorta enlaces largos
-
-## Guías y Recursos
-
-meskeIA ofrece más de 80 guías educativas completas organizadas por categorías. Visita la [página de guías](https://meskeia.com/guias) para acceder a todos los recursos.
+---
 
 ## Contribuir
 
-¡Las contribuciones son bienvenidas! Por favor, lee la [guía de contribución](CONTRIBUTING.md) primero.
+¿Quieres contribuir al proyecto? El código fuente está disponible en GitHub:
 
-### Cómo contribuir:
+1. **Reporta bugs** - Abre un issue en el repositorio
+2. **Sugiere mejoras** - Las ideas son bienvenidas
+3. **Contribuye código** - Fork, desarrolla y envía PR
 
-1. Asegúrate de que la herramienta es **gratuita** y funcional
-2. Debe estar **en español** o tener soporte completo en español
-3. No debe requerir **registro obligatorio** para funciones básicas
-4. Incluye una **descripción clara** de lo que hace la herramienta
-
-## Código de Conducta
-
-Este proyecto sigue el [Código de Conducta de Contributor Covenant](CODE_OF_CONDUCT.md). Al participar, se espera que mantengas este código.
+---
 
 ## Licencia
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-En la medida de lo posible bajo la ley, [meskeIA](https://github.com/meskeIA) ha renunciado a todos los derechos de autor y derechos conexos o afines a este trabajo.
+Este trabajo está dedicado al dominio público bajo la licencia [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
 
-## Sobre meskeIA
-
-meskeIA es una plataforma educativa que ofrece herramientas web gratuitas en español. Todas las aplicaciones son de código abierto y están disponibles en [GitHub](https://github.com/meskeIA/meskeia-web).
-
-**[🌐 Visita meskeIA](https://meskeia.com)** | **[💻 Código Fuente](https://github.com/meskeIA/meskeia-web)** | **[📧 Contacto](https://meskeia.com/acerca)**
+**[meskeia.com](https://meskeia.com)** - Herramientas web gratuitas en español
